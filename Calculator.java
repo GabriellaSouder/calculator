@@ -6,6 +6,7 @@
  * @author: Michael Kölling and David J. Barnes
  * @version 2016.02.29
  */
+//Gabriella Souder
 public class Calculator
 {
     private CalcEngine engine;
